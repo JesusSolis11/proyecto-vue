@@ -6,5 +6,5 @@
 </template>
 
 <script setup lang="ts">
-// Aquí puedes agregar lógica si quieres
+
 </script>
